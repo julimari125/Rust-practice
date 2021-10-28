@@ -19,6 +19,7 @@ fn main() {
         Arg::new("verbose")
         .about("Sets the level of verbosity")
         .short('V')
+        
         .long("verbose")
         .required(false),
     )

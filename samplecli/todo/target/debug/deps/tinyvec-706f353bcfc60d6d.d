@@ -1,0 +1,11 @@
+/Users/julianaiwata/Rust-practice/samplecli/todo/target/debug/deps/tinyvec-706f353bcfc60d6d.rmeta: /Users/julianaiwata/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.5.0/src/lib.rs /Users/julianaiwata/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.5.0/src/array.rs /Users/julianaiwata/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.5.0/src/array/generated_impl.rs /Users/julianaiwata/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.5.0/src/arrayvec.rs /Users/julianaiwata/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.5.0/src/arrayvec_drain.rs /Users/julianaiwata/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.5.0/src/slicevec.rs /Users/julianaiwata/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.5.0/src/tinyvec.rs
+
+/Users/julianaiwata/Rust-practice/samplecli/todo/target/debug/deps/tinyvec-706f353bcfc60d6d.d: /Users/julianaiwata/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.5.0/src/lib.rs /Users/julianaiwata/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.5.0/src/array.rs /Users/julianaiwata/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.5.0/src/array/generated_impl.rs /Users/julianaiwata/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.5.0/src/arrayvec.rs /Users/julianaiwata/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.5.0/src/arrayvec_drain.rs /Users/julianaiwata/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.5.0/src/slicevec.rs /Users/julianaiwata/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.5.0/src/tinyvec.rs
+
+/Users/julianaiwata/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.5.0/src/lib.rs:
+/Users/julianaiwata/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.5.0/src/array.rs:
+/Users/julianaiwata/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.5.0/src/array/generated_impl.rs:
+/Users/julianaiwata/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.5.0/src/arrayvec.rs:
+/Users/julianaiwata/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.5.0/src/arrayvec_drain.rs:
+/Users/julianaiwata/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.5.0/src/slicevec.rs:
+/Users/julianaiwata/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.5.0/src/tinyvec.rs:

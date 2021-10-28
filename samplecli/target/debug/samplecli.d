@@ -1,1 +1,1 @@
-/Users/julianaiwata/ohm/samplecli/target/debug/samplecli: /Users/julianaiwata/ohm/samplecli/src/main.rs
+/Users/julianaiwata/Rust-practice/samplecli/target/debug/samplecli: /Users/julianaiwata/Rust-practice/samplecli/src/main.rs
